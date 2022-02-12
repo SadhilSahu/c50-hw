@@ -1,8 +1,4 @@
-.Title{
-    background-color: black;
-    display:flex;
-    justify-content: space-between;
-}
+
 
 a:link{
     color: rgb(43, 226, 217);
@@ -42,4 +38,10 @@ body{
 .grid{
     display:flex;
     flex-wrap:wrap;
+}
+
+.about{
+    padding-right:25px ;
+    padding-top: 30px;
+    
 }
